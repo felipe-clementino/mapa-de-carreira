@@ -1,0 +1,177 @@
+{
+  "seo": {
+    "title": "Felipe Clementino | Mapa de Carreira Back-end",
+    "description": "Mapa de carreira com foco em desenvolvimento back-end, arquitetura de software, APIs, bancos de dados, DevOps e aprendizagem contínua.",
+    "author": "Felipe Clementino",
+    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+  },
+  "profile": {
+    "name": "Felipe Clementino",
+    "headline": "Desenvolvedor Back-end",
+    "photo": "assets/images/profile.jpg",
+    "photoAlt": "Foto profissional de Felipe Clementino",
+    "summary": "Estou construindo minha carreira como desenvolvedor back-end, com foco em programacao, arquitetura de software, APIs, bancos de dados, DevOps e boas praticas de desenvolvimento. Tenho interesse especial no ecossistema Java, mas busco desenvolver uma base solida que me permita atuar com diferentes tecnologias e contribuir para a criacao de sistemas escalaveis, seguros e eficientes.",
+    "cvUrl": "assets/docs/curriculo.pdf"
+  },
+  "contacts": [
+    {
+      "label": "felipeclementino.br@gmail.com",
+      "url": "mailto:felipeclementino.br@gmail.com"
+    },
+    {
+      "label": "linkedin.com/in/felipe-clementino",
+      "url": "https://www.linkedin.com/in/felipe-clementino"
+    },
+    {
+      "label": "github.com/felipe-clementino",
+      "url": "https://github.com/felipe-clementino"
+    }
+  ],
+  "careerSteps": [
+    {
+      "title": "Desenvolvedor Back-end Junior",
+      "description": "Consolidar os fundamentos da programacao, compreender estruturas de dados, desenvolver APIs simples e aplicar boas praticas de versionamento e organizacao de codigo.",
+      "softSkills": [
+        "Comunicacao clara para aprender e colaborar com a equipe.",
+        "Organizacao para estudos, projetos e entregas.",
+        "Persistencia na resolucao de problemas e depuracao de codigo."
+      ],
+      "roadmap": [
+        "Logica de programacao",
+        "Estruturas de dados",
+        "Programacao orientada a objetos",
+        "Java",
+        "Git e GitHub",
+        "SQL",
+        "APIs REST"
+      ]
+    },
+    {
+      "title": "Desenvolvedor Back-end Pleno",
+      "description": "Desenvolver sistemas com autonomia, criar APIs robustas, integrar servicos e garantir qualidade por meio de testes e documentacao.",
+      "softSkills": [
+        "Responsabilidade sobre entregas e qualidade tecnica.",
+        "Colaboracao em revisoes de codigo e compartilhamento de conhecimento.",
+        "Capacidade de analisar problemas e propor solucoes eficientes."
+      ],
+      "roadmap": [
+        "Spring Boot",
+        "Banco de dados relacionais",
+        "Testes automatizados",
+        "Docker",
+        "Autenticacao e autorizacao",
+        "Design Patterns",
+        "Mensageria"
+      ]
+    },
+    {
+      "title": "Desenvolvedor Back-end Senior",
+      "description": "Projetar arquiteturas escalaveis, orientar equipes, tomar decisoes tecnicas e contribuir para a evolucao dos sistemas e processos de desenvolvimento.",
+      "softSkills": [
+        "Lideranca tecnica.",
+        "Mentoria e desenvolvimento de pessoas.",
+        "Visao sistemica sobre tecnologia e negocio."
+      ],
+      "roadmap": [
+        "Arquitetura de software",
+        "Microsservicos",
+        "Cloud Computing",
+        "Observabilidade",
+        "Seguranca de aplicacoes",
+        "Escalabilidade e performance"
+      ]
+    },
+    {
+      "title": "Engenheiro DevOps",
+      "description": "Automatizar processos de entrega de software, configurar ambientes em nuvem, criar pipelines de CI/CD e garantir que as aplicacoes sejam publicadas com seguranca, estabilidade e escalabilidade.",
+      "softSkills": [
+        "Visao integrada entre desenvolvimento e infraestrutura.",
+        "Proatividade para prevenir falhas e melhorar processos.",
+        "Organizacao para lidar com automacoes, ambientes e monitoramento."
+      ],
+      "roadmap": [
+        "Linux",
+        "CI/CD",
+        "GitHub Actions",
+        "Docker",
+        "Kubernetes",
+        "Cloud Computing",
+        "AWS ou Azure",
+        "Terraform",
+        "Infraestrutura como Codigo",
+        "Monitoramento e Observabilidade"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Programacao e Back-end",
+      "skills": [
+        {
+          "name": "Java",
+          "level": 50
+        },
+        {
+          "name": "Programacao Orientada a Objetos",
+          "level": 30
+        },
+        {
+          "name": "APIs REST",
+          "level": 50
+        }
+      ]
+    },
+    {
+      "title": "Banco de Dados e Ferramentas",
+      "skills": [
+        {
+          "name": "SQL",
+          "level": 40
+        },
+        {
+          "name": "Git e GitHub",
+          "level": 60
+        }
+      ]
+    },
+    {
+      "title": "DevOps e Infraestrutura",
+      "skills": [
+        {
+          "name": "Docker",
+          "level": 10
+        },
+        {
+          "name": "CI/CD",
+          "level": 10
+        },
+        {
+          "name": "Cloud Computing",
+          "level": 10
+        }
+      ]
+    }
+  ],
+  "otherSkills": [
+    "Logica de programacao",
+    "Resolucao de problemas",
+    "Boas praticas de codigo",
+    "Documentacao",
+    "Code Review",
+    "Trabalho em equipe",
+    "Comunicacao",
+    "Aprendizagem continua",
+    "Automacao de processos",
+    "Monitoramento de sistemas"
+  ],
+  "languages": [
+    {
+      "name": "Portugues",
+      "level": "Nativo"
+    },
+    {
+      "name": "Ingles",
+      "level": "Basico"
+    }
+  ]
+}
