@@ -112,7 +112,7 @@ O mapa descreve as etapas da minha trajetória como desenvolvedor, destacando co
 
 **Felipe Clementino**
 
-📧 [felipeclementino.br@gmail.com](mailto:felipeclementino.br@gmail.com)
+📧 Email: [felipeclementino.br@gmail.com](mailto:felipeclementino.br@gmail.com)
 
 💼 LinkedIn: https://www.linkedin.com/in/felipe-clementino
 
