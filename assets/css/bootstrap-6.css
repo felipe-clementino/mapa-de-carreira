@@ -11761,12 +11761,20 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 .resume-header {
   background: #1A2E49;
   color: rgba(255, 255, 255, 0.9);
-  height: 220px;
+  min-height: 220px;
+}
+
+.resume-picture-holder {
+  align-self: stretch;
 }
 
 .resume-header .picture {
   width: 220px;
+  height: 100%;
+  min-height: 220px;
   margin-top: 0px;
+  display: block;
+  object-fit: cover;
 }
 
 .resume-header .name {
@@ -11785,6 +11793,30 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 
 .resume-header a:hover {
   color: white;
+}
+
+.resume-social a.text-link {
+  display: inline-flex;
+  align-items: center;
+}
+
+.resume-social .nav-icon {
+  width: 14px;
+  height: 14px;
+  margin-right: 0.5rem;
+  flex-shrink: 0;
+}
+
+#contact-list a.text-link {
+  display: inline-flex;
+  align-items: center;
+}
+
+#contact-list .contact-icon {
+  width: 14px;
+  height: 14px;
+  margin-right: 0.5rem;
+  flex-shrink: 0;
 }
 
 .resume-social {
@@ -11930,9 +11962,12 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   }
   .resume-header {
     height: auto;
+    min-height: 0;
   }
   .resume-header .picture {
     width: 120px;
+    height: 120px;
+    min-height: 0;
     border-radius: 4px;
   }
 }
